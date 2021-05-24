@@ -1,16 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `SK on Security`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Shahla Khan`,
+      summary: `who is just a security enthusiast.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog to discuss all things security.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `tbd',
     },
   },
+  
   plugins: [
     `gatsby-plugin-image`,
     {
